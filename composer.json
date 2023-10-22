@@ -1,0 +1,16 @@
+{
+    "name": "os/students_management",
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require": {
+        "yoeunes/toastr": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
